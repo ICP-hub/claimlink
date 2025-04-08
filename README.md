@@ -1,3 +1,5 @@
+> **_NOTE:_**  Claimlink has been bought by Origin and is now actively maintained [here](https://github.com/ORIGYN-SA/claimlink)
+
 # Claim Link: NFT Campaign and Dispenser Platform on ICP
 
 Claim Link is a decentralised platform built on the Internet Computer (ICP) that enables users to create NFT collections using the EXT token standard, mint NFTs, and distribute them through campaigns. Users can claim NFTs using a link or a QR code sent to their wallets. The platform also offers a dispenser feature for bulk NFT link distribution, facilitating easy sharing of multiple NFTs at once.
